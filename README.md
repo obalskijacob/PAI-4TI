@@ -7,10 +7,3 @@ README.md
 
 # Programowanie aplikacji internetowych Jakub Obalski		
 
-git status
-
-git add README.md
-
-git commit -m 
-
-git push
